@@ -88,7 +88,7 @@ ChatBox
 ![home](/ss/ChatBox.png)
 
 settings
-![setting](/ss/setting.png)
+![setting](/ss/settings.png)
 
 profile
 ![profile](/ss/profile.png)
