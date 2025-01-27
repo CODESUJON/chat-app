@@ -13,14 +13,14 @@ ChatterBox is a Full-Stack App. Usses Socket.io for real time communication and 
   ## Demo
 
 - signin
-  ![signin](\ss\signin.png)
+  ![signin](/ss/signin.png)
 
 ## Run Localy
 
 Clone the project
 
 ```bash
-git clone https://github.com/FLAME-God/Chat-Application
+git clone https://github.com/CODESUJON/chat-app
 ```
 
 go to server
@@ -77,8 +77,8 @@ npm run dev
 ## Features
 
 Authentication
-![sigin](\ss\signin.png)
+![sigin](/ss/signin.png)
 
-![signup](\ss\signup.png)
+![signup](/ss/signup.png)
 
 
