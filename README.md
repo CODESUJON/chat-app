@@ -20,7 +20,7 @@ ChatterBox is a Full-Stack App. Usses Socket.io for real time communication and 
 Clone the project
 
 ```bash
-git clone https://github.com/CODESUJON/chat-app
+git clone [https://github.com/CODESUJON/chat-app/tree/master]
 ```
 
 go to server
@@ -80,5 +80,18 @@ Authentication
 ![sigin](/ss/signin.png)
 
 ![signup](/ss/signup.png)
+
+ChatBox
+![home](/ss/home1.png)
+
+![home](/ss/home2.png)
+![home](/ss/ChatBox.png)
+
+settings
+![setting](/ss/setting.png)
+
+profile
+![profile](/ss/profile.png)
+
 
 
